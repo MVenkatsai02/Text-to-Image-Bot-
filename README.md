@@ -12,7 +12,7 @@ This is a simple Streamlit web app that generates images from text prompts using
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/gemini-text-to-image.git
+git clone https://github.com/MVenkatsai02/Text-to-Image-Bot-
 cd gemini-text-to-image
 ```
 
